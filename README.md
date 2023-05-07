@@ -1,1 +1,1 @@
-I created this website to revise what I have learnt in html and css
+I created this website to revise some tips on how to add css to a website
